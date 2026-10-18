@@ -36,6 +36,8 @@ Community-built plugins distributed via npm and ClawHub.
 
 - [openclaw-rewind](https://www.npmjs.com/package/@syeda_quratualin/openclaw-rewind) — Git-like time-travel for AI conversations: save, list, restore, branch, and diff session snapshots.
 
+- [reply-push-v2](https://github.com/verdeoc/reply-push-v2) — Native iOS push notifications for the official OpenClaw app; Free edition 2.1.1 covers `agentFinished`, with Pro event categories. By [@verdeoc](https://github.com/verdeoc).
+
 > See [Contributing](#contributing) to add your plugin.
 
 ## Skills
